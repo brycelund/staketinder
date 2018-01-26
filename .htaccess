@@ -1,0 +1,9 @@
+<IfModule mod_suphp.c>
+  AddHandler application/x-httpd-php56 .php .php5 .php4 .php3
+</IfModule>
+
+DirectoryIndex index.html index.php
+
+<FilesMatch ".+\.ph(p[345]?|t|tml)$">
+    SetHandler application/x-httpd-php
+</FilesMatch>

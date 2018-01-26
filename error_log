@@ -1,0 +1,426 @@
+[22-Jan-2017 14:53:34 America/Denver] PHP Fatal error:  Cannot use object of type stdClass as array in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 106
+[22-Jan-2017 14:53:34 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 14:53:51 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 14:54:18 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 14:54:47 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 17:00:21 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 17:02:36 America/Denver] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 110
+[22-Jan-2017 17:02:54 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 17:08:20 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:20 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:20 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:20 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:24 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:24 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:24 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:24 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:27 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:27 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:27 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:27 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:28 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:28 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:28 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:28 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:32 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:32 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:32 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:32 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:34 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:34 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:34 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:34 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:37 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:37 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:37 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:37 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:39 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:39 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:39 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:39 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:42 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:42 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:42 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:42 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:44 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:44 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:44 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:44 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:46 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:46 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:46 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:46 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:49 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:49 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:49 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 151
+[22-Jan-2017 17:08:49 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:08:49 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 17:10:09 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:09 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:09 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:09 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:11 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:11 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:11 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:11 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:14 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:14 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:14 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:14 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:15 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:15 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:15 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:15 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:17 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:17 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:17 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:17 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:21 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:21 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:21 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:21 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:23 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:23 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:23 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:23 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:26 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:26 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:26 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:26 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:28 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:28 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:28 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:28 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:33 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:33 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:33 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:33 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:36 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:36 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:36 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:36 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:38 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:38 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:38 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:10:38 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:10:38 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 17:11:40 America/Denver] PHP Warning:  Illegal string offset 'unitNumber' in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 103
+[22-Jan-2017 17:11:41 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:11:41 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:11:41 America/Denver] PHP Notice:  Undefined index: individualId in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 152
+[22-Jan-2017 17:11:41 America/Denver] PHP Notice:  Undefined index: imageUri in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 153
+[22-Jan-2017 17:11:41 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 17:12:19 America/Denver] PHP Warning:  Illegal string offset 'unitNumber' in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 103
+[22-Jan-2017 17:12:19 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 17:13:13 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 17:14:13 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 17:15:26 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 17:16:14 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 17:45:05 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home1/threefiv/public_html/brycelund/mystaketinder/login.php on line 5
+[22-Jan-2017 17:51:13 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 17:56:23 America/Denver] PHP Parse error:  syntax error, unexpected 'Emeline' (T_STRING) in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 9
+[22-Jan-2017 17:57:07 America/Denver] PHP Parse error:  syntax error, unexpected 'Emeline' (T_STRING) in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 9
+[22-Jan-2017 17:58:07 America/Denver] PHP Notice:  Undefined variable: stakemembers in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 24
+[22-Jan-2017 18:30:20 America/Denver] PHP Notice:  Undefined variable: stakemembers in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 9
+[22-Jan-2017 18:30:44 America/Denver] PHP Notice:  Undefined variable: stakemembers in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 9
+[22-Jan-2017 18:31:50 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 18:33:58 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 18:39:01 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 18:48:44 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:06:48 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:07:28 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:08:20 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:08:20 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/results.php on line 5
+[22-Jan-2017 19:08:20 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/results.php on line 5
+[22-Jan-2017 19:08:32 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/results.php on line 5
+[22-Jan-2017 19:09:10 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/results.php on line 5
+[22-Jan-2017 19:10:10 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/results.php on line 5
+[22-Jan-2017 19:20:11 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:21:44 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:24:24 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/results.php on line 5
+[22-Jan-2017 19:25:05 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:29:14 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:34:24 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 11
+[22-Jan-2017 19:34:24 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:39:28 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:39:28 America/Denver] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 11
+[22-Jan-2017 19:39:28 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:42:13 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:42:13 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 32
+[22-Jan-2017 19:44:07 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 33
+[22-Jan-2017 19:44:07 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 36
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 36
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 36
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 36
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 36
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 36
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 36
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 36
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 36
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 36
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 36
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index: unitNo in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 36
+[22-Jan-2017 19:46:04 America/Denver] PHP Notice:  Undefined index:  in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:46:04 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:47:00 America/Denver] PHP Notice:  Undefined offset: 10308 in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:47:00 America/Denver] PHP Notice:  Undefined offset: 10839 in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:47:00 America/Denver] PHP Notice:  Undefined offset: 75019 in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:47:00 America/Denver] PHP Notice:  Undefined offset: 74837 in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:47:00 America/Denver] PHP Notice:  Undefined offset: 91189 in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:47:00 America/Denver] PHP Notice:  Undefined offset: 161543 in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:47:00 America/Denver] PHP Notice:  Undefined offset: 194042 in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:47:00 America/Denver] PHP Notice:  Undefined offset: 227870 in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:47:00 America/Denver] PHP Notice:  Undefined offset: 227889 in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:47:00 America/Denver] PHP Notice:  Undefined offset: 270652 in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:47:00 America/Denver] PHP Notice:  Undefined offset: 275670 in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:47:00 America/Denver] PHP Notice:  Undefined offset: 413887 in /home1/threefiv/public_html/brycelund/mystaketinder/StakeTinder.php on line 37
+[22-Jan-2017 19:47:00 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:48:28 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:52:56 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 7
+[22-Jan-2017 19:52:56 America/Denver] PHP Notice:  Undefined index: warddata in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 8
+[22-Jan-2017 19:53:50 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 7
+[22-Jan-2017 19:53:50 America/Denver] PHP Notice:  Undefined index: warddata in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 8
+[22-Jan-2017 19:54:16 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 7
+[22-Jan-2017 19:54:16 America/Denver] PHP Notice:  Undefined index: warddata in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 8
+[22-Jan-2017 19:55:01 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 7
+[22-Jan-2017 19:55:01 America/Denver] PHP Notice:  Undefined index: warddata in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 8
+[22-Jan-2017 19:55:24 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 7
+[22-Jan-2017 19:55:24 America/Denver] PHP Notice:  Undefined index: warddata in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 8
+[22-Jan-2017 19:58:14 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:59:25 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 19:59:59 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 20:08:03 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 20:13:38 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 20:31:37 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 7
+[22-Jan-2017 20:31:37 America/Denver] PHP Notice:  Undefined index: warddata in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 8
+[22-Jan-2017 20:31:46 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 7
+[22-Jan-2017 20:31:46 America/Denver] PHP Notice:  Undefined index: warddata in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 8
+[22-Jan-2017 20:32:32 America/Denver] PHP Notice:  Undefined index: StakeMembers in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 7
+[22-Jan-2017 20:32:32 America/Denver] PHP Notice:  Undefined index: warddata in /home1/threefiv/public_html/brycelund/mystaketinder/play.php on line 8
+[22-Jan-2017 20:33:31 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 20:37:12 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 20:37:53 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 20:53:08 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 20:56:38 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 20:59:44 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 21:02:04 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
+[22-Jan-2017 21:03:34 America/Denver] PHP Fatal error:  Uncaught exception 'Exception' with message 'Serialization of 'Closure' is not allowed' in [no active file]:0
+Stack trace:
+#0 {main}
+  thrown in [no active file] on line 0
